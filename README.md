@@ -6,7 +6,7 @@
 
 I am a backend developer who loves Java!
 
-- 🌍 Based in Bengaluru, India
+- 🌍 Based in Chennai, India
 - 🖥️ See my portfolio at [MyPortfolio](http://abc.com)
 - ✉️ Contact me at [atuljha1008@outlook.com](mailto:atuljha1008@outlook.com)
 - 🚀 Currently working on [EMLS (Employee Leave Management System)](http://LeaveFlow.com)
