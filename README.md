@@ -11,11 +11,11 @@ A passionate backend developer with a strong foundation in Java and backend tech
 
 - 📍 Location: **Hyderabad, India**  
 - 🎓 Education: **Bachelor of Computer Applications (BCA), 2024**  
-- 💼 Project: [**LeaveFlow – Employee Leave Management System**](http://LeaveFlow.com)  
+- 💼 Project: [**LeaveFlow – Employee Leave Management System**](http://LeaveFlow.com) <!-- Replace with actual project URL if available -->
 - 📚 Currently Learning: **Data Structures & Algorithms (DSA)**  
 - ✉️ Email: [atuljha1008@outlook.com](mailto:atuljha1008@outlook.com)  
-- 🌐 Portfolio: [MyPortfolio](http://abc.com)  
-- 🤝 Open to: **Backend Developer | Java Developer | Software Developer** roles
+- 🌐 Portfolio: [MyPortfolio](http://abc.com) <!-- Replace with actual portfolio link -->
+- 🤝 Open to: **Collaboration!**
 
 ---
 
@@ -56,21 +56,5 @@ A passionate backend developer with a strong foundation in Java and backend tech
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/atuljhadev">
-  <img src="https://github-readme-stats.vercel.app/api?username=atuljhadev&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</a>
-<br/>
-<a href="https://github.com/atuljhadev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atuljhadev&theme=radical" alt="GitHub Streak" />
-</a>
-<br/>
-<a href="https://github.com/atuljhadev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atuljhadev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
-</a>
 
 </div>
